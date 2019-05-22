@@ -1,0 +1,4 @@
+#Wed May 08 16:01:55 ULAT 2019
+base.0=C\:\\Users\\Choijoo\\AndroidStudioProjects\\FaceRecognitionApp-1.2.3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7718a548c34a6f3ee04321cf818e3193\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\65e03bf34e7e7945b79fab35a643c67c\AndroidManifest.xml:17:1-22:12
+MERGED from [:opencv] C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\OpenCV-android-sdk\sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f87aaa971afeeb148003436cbfbc40a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5a72b13f55bb0dc8f85c6ba847315bb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\076f793dca89c9ac7a8bcc064eb7d673\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\727ee60a4ae743d06a3a29bf89c57bc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4f2fb42f4ce81258a9194d74b426e3bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7501beddfa06905b1714b1d79ebd9bc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\aad9c78a3581d3bbe20790660e218aa3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\de6567ea88ef5762fb8eff3e0874b8ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\36345df3bc4c55296cb82290bf6f6953\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c455fdcd0746709340f32b21c64e2e05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e9118eae0653ea70a020d04789c1f9b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eb7b4dcd9277a0e9bfb594ea39cd3ce5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0217894d04bdaa360f48fa030d99586e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2a3b47b8c21d382b45eca67943a739a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\198154cb793c5675a1583b178e5d2ed4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\611b8ec3344d2c9396a030d17da3e8c9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb2cd2197739150b8c5bdba1280bf9f8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e1128b84ee0214f34f1b29687e1a0b38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\9faf07352bef1d93b6b4ae42faf4bc19\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0ce48ef10411c0492d171615ade18827\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c318fc4bab096277219ee7e40bd7c34c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ddb3178a326bd1815d4233d67392076b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f2916245df4ef7f2bc9df46db557aecd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1fbf8bd906d6584e09ded5fe15279391\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f2ffae74c583d9c4a25b40fb543aa70a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c7a8dccb2839b71298d2e16b68be3aab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5ddcfcfff6873908ac0bfbb94a0a9d88\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\26f62d4a2bab085316c94a7abbd67417\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:8:5-84
+	android:required
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:8:58-82
+	android:name
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:9:5-94
+	android:required
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:9:68-92
+	android:name
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:9:19-67
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:10:5-90
+	android:required
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:10:64-88
+	android:name
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:10:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:11:5-100
+	android:required
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:11:74-98
+	android:name
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:11:19-73
+application
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:13:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7718a548c34a6f3ee04321cf818e3193\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7718a548c34a6f3ee04321cf818e3193\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\611b8ec3344d2c9396a030d17da3e8c9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\611b8ec3344d2c9396a030d17da3e8c9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb2cd2197739150b8c5bdba1280bf9f8\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb2cd2197739150b8c5bdba1280bf9f8\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\611b8ec3344d2c9396a030d17da3e8c9\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:18:9-36
+	android:label
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:17:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:14:9-43
+	android:icon
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.lauszus.facerecognitionapp.FaceRecognitionAppActivity
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:21:13-51
+	android:label
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:20:19-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7718a548c34a6f3ee04321cf818e3193\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\7718a548c34a6f3ee04321cf818e3193\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\65e03bf34e7e7945b79fab35a643c67c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\65e03bf34e7e7945b79fab35a643c67c\AndroidManifest.xml:20:5-44
+MERGED from [:opencv] C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\OpenCV-android-sdk\sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:opencv] C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\OpenCV-android-sdk\sdk\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f87aaa971afeeb148003436cbfbc40a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f87aaa971afeeb148003436cbfbc40a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5a72b13f55bb0dc8f85c6ba847315bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5a72b13f55bb0dc8f85c6ba847315bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\076f793dca89c9ac7a8bcc064eb7d673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\076f793dca89c9ac7a8bcc064eb7d673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\727ee60a4ae743d06a3a29bf89c57bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\727ee60a4ae743d06a3a29bf89c57bc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4f2fb42f4ce81258a9194d74b426e3bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\4f2fb42f4ce81258a9194d74b426e3bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7501beddfa06905b1714b1d79ebd9bc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7501beddfa06905b1714b1d79ebd9bc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\aad9c78a3581d3bbe20790660e218aa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\aad9c78a3581d3bbe20790660e218aa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\de6567ea88ef5762fb8eff3e0874b8ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\de6567ea88ef5762fb8eff3e0874b8ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\36345df3bc4c55296cb82290bf6f6953\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\36345df3bc4c55296cb82290bf6f6953\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c455fdcd0746709340f32b21c64e2e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\c455fdcd0746709340f32b21c64e2e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e9118eae0653ea70a020d04789c1f9b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e9118eae0653ea70a020d04789c1f9b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eb7b4dcd9277a0e9bfb594ea39cd3ce5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eb7b4dcd9277a0e9bfb594ea39cd3ce5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0217894d04bdaa360f48fa030d99586e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\0217894d04bdaa360f48fa030d99586e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2a3b47b8c21d382b45eca67943a739a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2a3b47b8c21d382b45eca67943a739a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\198154cb793c5675a1583b178e5d2ed4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\198154cb793c5675a1583b178e5d2ed4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\611b8ec3344d2c9396a030d17da3e8c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\611b8ec3344d2c9396a030d17da3e8c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb2cd2197739150b8c5bdba1280bf9f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\fb2cd2197739150b8c5bdba1280bf9f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e1128b84ee0214f34f1b29687e1a0b38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e1128b84ee0214f34f1b29687e1a0b38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\9faf07352bef1d93b6b4ae42faf4bc19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\9faf07352bef1d93b6b4ae42faf4bc19\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0ce48ef10411c0492d171615ade18827\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0ce48ef10411c0492d171615ade18827\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c318fc4bab096277219ee7e40bd7c34c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c318fc4bab096277219ee7e40bd7c34c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ddb3178a326bd1815d4233d67392076b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ddb3178a326bd1815d4233d67392076b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f2916245df4ef7f2bc9df46db557aecd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f2916245df4ef7f2bc9df46db557aecd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1fbf8bd906d6584e09ded5fe15279391\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1fbf8bd906d6584e09ded5fe15279391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f2ffae74c583d9c4a25b40fb543aa70a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\f2ffae74c583d9c4a25b40fb543aa70a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c7a8dccb2839b71298d2e16b68be3aab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\c7a8dccb2839b71298d2e16b68be3aab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5ddcfcfff6873908ac0bfbb94a0a9d88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\5ddcfcfff6873908ac0bfbb94a0a9d88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\26f62d4a2bab085316c94a7abbd67417\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Choijoo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\26f62d4a2bab085316c94a7abbd67417\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Choijoo\AndroidStudioProjects\FaceRecognitionApp-1.2.3\app\src\main\AndroidManifest.xml
